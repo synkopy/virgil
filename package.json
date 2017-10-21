@@ -1,0 +1,24 @@
+{
+  "name": "virgil",
+  "version": "0.0.1",
+  "description": "a tool to dispatch new project using yoeman and some linting tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synkopy/virgil.git"
+  },
+  "keywords": [
+    "build-tool",
+    "generator",
+    "project-starter"
+  ],
+  "author": "Seghir Nadir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/synkopy/virgil/issues"
+  },
+  "homepage": "https://github.com/synkopy/virgil#readme"
+}
